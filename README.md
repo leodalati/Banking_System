@@ -1,30 +1,29 @@
-.
+Banking Transaction Management & Business Intelligence System
 
-🏦 Banking Simulator (Tkinter)
-Overview
+Description
 
-This project is a simple banking simulator built using Python and Tkinter. It allows a user to interact with a bank account through a graphical user interface (GUI), including depositing money, withdrawing money, and saving account data to a file.
+End-to-end BI project that captures, manages, and analyzes financial transaction data from a Python-based banking application. The project focuses on data integrity, exploratory analysis, and business insight generation.
 
-The program supports different account types such as Savings, Checking, and TFSA.
+Tools
 
-Features
+Python
 
-Graphical user interface using Tkinter
+Pandas, NumPy
 
-View account owner, account number, account type, and balance
+Tkinter
 
-Deposit and withdraw funds (password protected)
+Jupyter Notebook
 
-Save and load account information from a file
+GitHub
 
-Error handling for invalid input and insufficient funds
+Key BI Features
 
-Account Types
+Transaction-level data collection
 
-Savings
+Structured data storage (CSV)
 
-Checking
+Time-series analysis
 
-TFSA
+Cash flow and balance trend analysis
 
-All account types inherit from a base BankAccount class.
+Business insight reporting
