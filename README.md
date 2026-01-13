@@ -4,26 +4,28 @@ Description
 
 End-to-end BI project that captures, manages, and analyzes financial transaction data from a Python-based banking application. The project focuses on data integrity, exploratory analysis, and business insight generation.
 
-Tools
+Tools:
 
-Python
+- Python
 
-Pandas, NumPy
+- Pandas
 
-Tkinter
+- NumPy
 
-Jupyter Notebook
+- Tkinter
 
-GitHub
+- Jupyter Notebook
 
-Key BI Features
+- GitHub
 
-Transaction-level data collection
+Key BI Features:
 
-Structured data storage (CSV)
+- Transaction-level data collection
 
-Time-series analysis
+- Structured data storage (CSV)
 
-Cash flow and balance trend analysis
+- Time-series analysis
 
-Business insight reporting
+- Cash flow and balance trend analysis
+
+- Business insight reporting
